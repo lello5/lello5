@@ -1,18 +1,19 @@
 ##  👋 Hi, I'm Leandro Maglianella
-I am an Italian student who graduated in Computer Engineering (110/110 cum Laude) and I am currently enrolled in the second year of the Master of Science in
-Artificial Intelligence and Robotics at La Sapienza, University of Rome.
+I am an Italian student who graduated in **Computer Engineering** (110/110 cum Laude) and I am currently enrolled in the second year of the Master of Science in **Artificial Intelligence and Robotics** at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
+
+In 2022, I have been selected by [Bending Spoons](https://bendingspoons.com/) as one of the “20 Most Impressive Computer Science & Engineering Students of Europe”.
 
 ## 👀 I’m interested in ..
 .. anything related to machine learning, neuroscience, robotics and software development.
 
 ## :computer: Languages and Tools
-- Programming languages: C, C++, Python, Java, Assembly x86, SQL, Ruby, Swift, MATLAB
-- Web programming: JavaScript, HTML, CSS
-- Frameworks: TensorFlow, PyTorch, NumPy, ROS, OpenCV
-- 3D engines: WebGL, Babylon.js, Unreal Engine, Unity
-- Development tools: Colab, Jupyter, Spyder, Anaconda, Visual Studio, Git, Eclipse, Oracle MySQL
-- Operating systems: Windows, Ubuntu
-- Office suite: Microsoft Office, Latex
+- **Programming languages:** Python, C, C++, Java, Assembly x86, SQL, Ruby, Swift, MATLAB
+- **Web programming:** JavaScript, HTML, CSS
+- **Frameworks:** TensorFlow, PyTorch, NumPy, OpenCV, ROS, OMPL
+- **3D engines:** WebGL, Babylon.js, Unreal Engine, Unity
+- **Development tools:** Colab, Jupyter, Spyder, Anaconda, Visual Studio, Git, Eclipse, Oracle MySQL
+- **Operating systems:** Windows, Ubuntu
+- **Office suite:** Microsoft Office, Latex
 
 ## :memo: Check my projects!
 Take a look at the [projects](https://github.com/lello5/university-projects) I developed during my academic years.
