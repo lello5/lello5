@@ -1,7 +1,9 @@
 ##  👋 Hi, I'm Leandro Maglianella
-I am an Italian student who graduated in **Computer Engineering** (110/110 cum Laude) and I am currently enrolled in the second year of the Master of Science in **Artificial Intelligence and Robotics** at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
+I am an Italian guy who graduated in BSc. in **Computer Engineering** and in MSc. in Artificial Intelligence and Robotics (both 110/110 cum Laude) at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
 
 In 2022, I have been selected by [Bending Spoons](https://bendingspoons.com/) as one of the “20 Most Impressive Computer Science & Engineering Students of Europe”.
+
+Currently, I am working as a Data Scientist for [Target Reply Rome](https://www.reply.com/target-reply/it/).
 
 ## 👀 I’m interested in ..
 .. anything related to machine learning, neuroscience, robotics and software development.
