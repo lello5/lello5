@@ -1,12 +1,12 @@
 ##  👋 Hi, I'm Leandro Maglianella
-I am an Italian guy who graduated in BSc. in **Computer Engineering** and in MSc. in Artificial Intelligence and Robotics (both 110/110 cum Laude) at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
+I am an Italian guy who graduated in an MSc. in **Artificial Intelligence and Robotics** and a BSc. in **Computer Engineering** (both 110/110 with honors) at [La Sapienza, University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home).
 
 In 2022, I have been selected by [Bending Spoons](https://bendingspoons.com/) as one of the “20 Most Impressive Computer Science & Engineering Students of Europe”.
 
 Currently, I am working as a Data Scientist for [Target Reply Rome](https://www.reply.com/target-reply/it/).
 
 ## 👀 I’m interested in ..
-.. anything related to machine learning, neuroscience, robotics and software development.
+.. anything related to machine learning, AI, neuroscience, robotics and software development.
 
 ## :computer: Languages and Tools
 - **Programming languages:** Python, C, C++, Java, Assembly x86, SQL, Ruby, Swift, MATLAB
@@ -18,6 +18,8 @@ Currently, I am working as a Data Scientist for [Target Reply Rome](https://www.
 - **Office suite:** Microsoft Office, Latex
 
 ## :memo: Check my projects!
+Check out my most recent [paper](https://link.springer.com/article/10.1007/s41781-023-00102-z)! 👉 [Paper's Repo](https://github.com/lorin98/xAI-HEP)
+
 Take a look at the [projects](https://github.com/lello5/university-projects) I developed during my academic years.
 
 <br />
